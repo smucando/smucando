@@ -1,22 +1,23 @@
-# gm stranger 👋
+# GM stranger 👋
 
-I'm Stefan, a dev noob with a passion for crafting elegant code (and an even bigger passion for strong coffee).  I'm currently working on myself to become better at coding.
+Stefan here, a dev noob with a passion for crafting elegant code (and an even bigger passion for strong coffee).  I'm currently working on myself to become better at coding.
 
 I'm always eager to learn new technologies, as long as they don't involve anything that requires more than three cups of coffee to understand.
 
-**Current Superpowers**
+**🤌 Current Superpowers**
 
 * **Problem Solving:**  I can debug code faster than you can say "Stack Overflow."
-* **Caffeine-Fueled Coding:** My code runs on premium, high-octane coffee. Expect peak performance after 10 AM.
+* **Caffeine-Fueled Coding:** My code runs on premium, high-octane coffee. Expect peak performance after 10 AM CET.
 * **Creative Procrastination:**  I may occasionally get sidetracked by fascinating articles about the history of paperclips, but I always deliver in the end. Think of it as "optimized thinking time."
 
-**What I'm Looking For...**
+**🧐 What I'm Looking For...**
 
-* Interesting projects to contribute to.
-* Opportunities to collaborate and learn from & with other talented developers.
-* More coffee. (Always more coffee.)
+* Interesting projects to contribute to
+* Opportunities to collaborate with other talented developers
+* To learn from the best 
+* More coffee ☕ (always more coffee)
 
-**Let's Connect!**
+**🤝 Let's Connect Right Now!**
 
 [🤖 **GitHub**](https://github.com/smucando)
 
